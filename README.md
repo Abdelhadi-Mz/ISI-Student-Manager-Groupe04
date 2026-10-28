@@ -116,147 +116,70 @@ Création d'une Pull Request vers `main` et demande de revue de code.
 
 ---
 
-# Étudiant C — Gestion des projets
+# Étudiant C — Gestion des projets (Marieme AMZIL)
 
 ### 1. Configuration de Git
 
 Vérification de l'installation de Git et configuration de l'identité de l'utilisateur.
 
-```bash
-git --version
-git config --global user.name "Nom Etudiant C"
-git config --global user.email "email@example.com"
-git config --list
-```
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
+<img width="859" height="244" alt="image" src="https://github.com/user-attachments/assets/15d8f3d6-018e-4bca-9b9f-878bd785b97a" />
 
 ### 2. Configuration SSH dans GitHub
 
 Génération d'une paire de clés SSH :
 
 ```bash
-ssh-keygen -t ed25519 -C "email@example.com"
+ssh-keygen -t ed25519 -C "amzilmarieme@gmail.com"
 ```
+<img width="1370" height="624" alt="image" src="https://github.com/user-attachments/assets/a17c9439-8794-4ea6-b483-812e0f93d3ef" />
 
 Ajout de la clé publique dans GitHub :
+
+<img width="1432" height="387" alt="image" src="https://github.com/user-attachments/assets/d4b92dbc-5ea1-4e81-b0ab-3df3b1dd021d" />
 
 **Settings → SSH and GPG keys → New SSH key**
 
 Test de la connexion :
 
-```bash
-ssh -T git@github.com
-```
+<img width="1058" height="185" alt="image" src="https://github.com/user-attachments/assets/ca18f182-74c7-4c8a-85b4-bd8785008ecb" />
+
 
 La connexion SSH a été établie avec succès.
 
 ### 3. Clonage du dépôt commun
 
-Après configuration SSH, clonage du dépôt GitHub :
-
-```bash
-git clone git@github.com:Abdelhadi-Mz/ISI-Student-Manager-Groupe04.git
-```
-
-![Clonage du dépôt GitHub](image.png)
-
-Accès au dossier du projet :
-
-```bash
-cd ISI-Student-Manager-Groupe04
-git status
-```
+<img width="1581" height="157" alt="image" src="https://github.com/user-attachments/assets/1a0b4a13-1ef9-41a4-af13-89df126c749e" />
 
 ### 4. Mise à jour de la copie locale
 
 Après les modifications réalisées par les autres membres du groupe, récupération de la dernière version de la branche principale :
 
-```bash
-git switch main
-git pull origin main
-git status
-```
-
-![Mise à jour de la copie locale](image-2.png)
+<img width="1359" height="500" alt="image" src="https://github.com/user-attachments/assets/7a732f85-add3-49c9-a9b8-6a3861f4805d" />
 
 ### 5. Création de la branche feature/projets
 
 Vérification de la branche active :
 
-```bash
-git status
-git branch --show-current
-```
-
-Création de la branche dédiée aux projets :
-
-```bash
-git switch -c feature/projets
-```
-
-![Création de la branche feature/projets](image-1.png)
-
-Vérification de la branche active :
-
-```bash
-git branch
-git branch --show-current
-```
-
-![Vérification de la branche active](image-3.png)
+<img width="1469" height="131" alt="image" src="https://github.com/user-attachments/assets/74c41152-0a4c-4abc-a069-0e53f85eb84d" />
 
 ### 6. Développement du fichier projets.php
 
 Création du fichier `projets.php`.
-
-Cette page permet d'afficher dynamiquement une liste de projets à partir d'un tableau PHP.
-
-Fonctionnalités réalisées :
-
-- Définition d'un tableau contenant quatre projets.
-- Parcours du tableau avec `foreach`.
-- Affichage des projets sous forme de liste HTML.
-- Utilisation de `htmlspecialchars()` pour sécuriser l'affichage.
+<img width="1170" height="713" alt="image" src="https://github.com/user-attachments/assets/9481cd5e-0304-4753-8930-2ba07b46810f" />
 
 ### 7. Test de l'application
 
-Vérification de PHP :
-
-```bash
-php -v
-```
-
-Démarrage du serveur local :
-
-```bash
-php -S localhost:8000
-```
-
-Accès à la page :
-
-`http://localhost:8000/projets.php`
+<img width="785" height="428" alt="image" src="https://github.com/user-attachments/assets/9f629550-fad4-4cd5-b2ff-ab19ff143f76" />
 
 La liste des projets s'affiche correctement dans le navigateur.
 
 ### 8. Ajout et commit du fichier
 
-```bash
-git status
-git add projets.php
-git commit -m "Ajout de la page liste des projets"
-```
-
-Vérification du commit :
-
-```bash
-git log -1 --oneline
-```
+<img width="1373" height="491" alt="image" src="https://github.com/user-attachments/assets/503e2f6d-05d6-4248-9270-36fa3e96b51a" />
 
 ### 9. Publication de la branche sur GitHub
 
-```bash
-git push -u origin feature/projets
-```
+<img width="1391" height="304" alt="image" src="https://github.com/user-attachments/assets/2f97c596-ad04-4a5a-8c89-4990f3ca1be9" />
 
 La branche `feature/projets` est publiée sur le dépôt distant.
 
@@ -264,21 +187,16 @@ La branche `feature/projets` est publiée sur le dépôt distant.
 
 Création d'une Pull Request avec les paramètres :
 
-- **Base :** `main`
-- **Compare :** `feature/projets`
-- **Titre :** Ajout de la page liste des projets
+<img width="1920" height="1080" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/0e45d3a0-05a5-4821-884c-64cdd69faef6" />
 
 Cette Pull Request permet de proposer les modifications de l'étudiant C pour intégration dans le projet commun.
 
 ### 11. Revue de code
 
-Un autre membre du groupe examine les modifications dans l'onglet **Files changed** et peut laisser un commentaire.
+Laisser un commentaire pour l'etudiant B
 
-![Revue de code et commentaires](image-4.png)
+<img width="1920" height="1080" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/c9b1095c-99be-4c3e-bc96-b8f07bb28de0" />
 
-Après validation de la revue, les modifications peuvent être fusionnées dans `main` par le responsable autorisé.
-
----
 
 # Étudiant D — Style CSS et navigation
 
