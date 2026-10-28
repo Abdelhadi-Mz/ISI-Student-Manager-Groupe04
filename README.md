@@ -1,4 +1,3 @@
-<img width="952" height="185" alt="Screenshot 2026-10-28 153544" src="https://github.com/user-attachments/assets/f52d6c51-b2fa-4275-bd72-0cc760ac710e" /><img width="952" height="185" alt="Screenshot 2026-10-28 153544" src="https://github.com/user-attachments/assets/c5ec2ab1-29ef-441d-b7c8-fc2b149dde3e" /># ISI-Student-Manager-Groupe04
 
 ## TP 3 — Gestion collaborative des versions avec Git et GitHub
 
