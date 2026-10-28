@@ -45,6 +45,8 @@ git --version
 git config --global user.name "Nom Etudiant A"
 git config --global user.email "email@example.com"
 git config --list
+<img width="388" height="228" alt="image" src="https://github.com/user-attachments/assets/1951f9ce-02cf-4541-be44-9f698b56e520" />
+
 ```
 
 
