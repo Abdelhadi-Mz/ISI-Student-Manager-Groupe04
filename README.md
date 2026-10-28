@@ -25,7 +25,7 @@ Chaque étudiant travaille sur une branche dédiée, puis propose ses modificati
 
 ---
 
-# Étudiant A — Création du dépôt et page d'accueil
+# Étudiant A (Abdelhadi El Mezouari) — Création du dépôt et page d'accueil
 
 ### 1. Création du dépôt GitHub
 
