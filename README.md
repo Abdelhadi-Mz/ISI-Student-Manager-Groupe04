@@ -277,6 +277,9 @@ git push -u origin feature/style
 Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue de code.
 <img width="716" height="170" alt="git10" src="https://github.com/user-attachments/assets/c2b1ceea-3a47-4d09-bb49-426ab1969b39" />
 
+<img width="1352" height="377" alt="git11" src="https://github.com/user-attachments/assets/8bc28826-f993-45f4-8daa-0214c1654a5a" />
+
+
 
 # Intégration collaborative du projet
 
