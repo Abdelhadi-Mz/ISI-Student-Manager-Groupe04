@@ -227,14 +227,18 @@ Laisser un commentaire pour l'etudiant B
 # Étudiant D — Style CSS et navigation
 
 ### 1. Configuration Git et SSH
+<img width="667" height="552" alt="configuration" src="https://github.com/user-attachments/assets/f45c3ca7-5cbf-4726-941a-d70a31d48ecc" />
+<img width="840" height="411" alt="configuration ssh" src="https://github.com/user-attachments/assets/2024916b-c817-4b9b-8e9f-eea661d49aa8" />
+<img width="1311" height="336" alt="git3" src="https://github.com/user-attachments/assets/a779038e-ac94-49bf-8710-5b35d92555c5" />
 
-L'étudiant D configure Git et sa connexion SSH à GitHub.
 
 ### 2. Clonage du dépôt
 
 ```bash
 git clone git@github.com:Abdelhadi-Mz/ISI-Student-Manager-Groupe04.git
 ```
+<img width="738" height="152" alt="clonage depot" src="https://github.com/user-attachments/assets/f96bcdf0-23ea-437f-a68d-12af960099aa" />
+
 
 ### 3. Accès au projet
 
@@ -242,39 +246,37 @@ git clone git@github.com:Abdelhadi-Mz/ISI-Student-Manager-Groupe04.git
 cd ISI-Student-Manager-Groupe04
 git status
 ```
+<img width="750" height="367" alt="git6" src="https://github.com/user-attachments/assets/39d48ad8-3ceb-430b-973a-edfc1f3ab17f" />
+
+
 
 ### 4. Création de la branche CSS
 
 ```bash
 git switch -c feature/style
-git branch --show-current
 ```
+<img width="742" height="56" alt="git7" src="https://github.com/user-attachments/assets/ac6401bb-fe47-41e4-b1ca-e0ffcc1519f8" />
+
 
 ### 5. Développement du style
 
 Création du fichier `style.css` pour améliorer la présentation graphique de l'application.
+<img width="883" height="582" alt="git8" src="https://github.com/user-attachments/assets/71fae661-7fce-4535-bd10-fd2616aaa609" />
 
-Travail prévu :
-
-- Mise en forme des titres et des textes.
-- Personnalisation des couleurs.
-- Amélioration de l'affichage des listes.
-- Harmonisation de l'apparence des pages.
-- Mise en forme des éléments de navigation.
 
 ### 6. Commit et push
 
 ```bash
 git add style.css
-git commit -m "Ajout du style CSS"
 git push -u origin feature/style
 ```
+<img width="757" height="47" alt="git9" src="https://github.com/user-attachments/assets/8a9503ee-58c5-4c5c-8814-94a38931397e" />
 
 ### 7. Pull Request
 
 Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue de code.
+<img width="716" height="170" alt="git10" src="https://github.com/user-attachments/assets/c2b1ceea-3a47-4d09-bb49-426ab1969b39" />
 
----
 
 # Intégration collaborative du projet
 
@@ -297,6 +299,7 @@ Après les fusions, les membres peuvent synchroniser leur copie locale :
 git switch main
 git pull origin main
 ```
+
 
 # Conclusion
 
