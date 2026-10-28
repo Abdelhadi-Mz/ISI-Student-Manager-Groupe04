@@ -1,14 +1,9 @@
 # ISI-Student-Manager-Groupe04
 
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
-
-# ISI-Student-Manager-Groupe04
-
 ## TP 3 — Gestion collaborative des versions avec Git et GitHub
 
 **Projet :** ISI Student Manager  
 **Groupe :** 04  
-**Technologies :** PHP, HTML, CSS, Git et GitHub
 
 ### Présentation du projet
 
@@ -74,6 +69,7 @@ git push -u origin feature/accueil
 
 Création d'une Pull Request de `feature/accueil` vers `main`, suivie d'une revue de code avant fusion.
 
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
 ---
 
 # Étudiant B — Gestion des étudiants
@@ -132,6 +128,7 @@ git config --global user.name "Nom Etudiant C"
 git config --global user.email "email@example.com"
 git config --list
 ```
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
 
 ### 2. Configuration SSH dans GitHub
 
