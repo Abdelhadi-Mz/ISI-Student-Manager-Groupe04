@@ -200,6 +200,9 @@ Laisser un commentaire pour l'etudiant B
 
 <img width="1361" height="700" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/6c86175b-b7b4-4af2-ab79-d06bb51bc2aa" />
 
+### 12. Après validation, le groupe fusionne la Pull Request
+
+<img width="1225" height="743" alt="image" src="https://github.com/user-attachments/assets/743547d6-e587-42f0-a093-5555168fd467" />
 
 
 # Étudiant D — Style CSS et navigation
