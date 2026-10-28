@@ -70,6 +70,8 @@ git push -u origin feature/accueil
 Création d'une Pull Request de `feature/accueil` vers `main`, suivie d'une revue de code avant fusion.
 
 <img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
+<img width="1910" height="965" alt="image" src="https://github.com/user-attachments/assets/f99ad1b0-9d2f-4036-a086-3b0eb62a3c46" />
+
 ---
 
 # Étudiant B — Gestion des étudiants
