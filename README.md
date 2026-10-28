@@ -71,6 +71,8 @@ Création d'une Pull Request de `feature/accueil` vers `main`, suivie d'une revu
 
 <img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fb838651-6c68-4405-9dfe-3ae4921a45f6" />
 <img width="1910" height="965" alt="image" src="https://github.com/user-attachments/assets/f99ad1b0-9d2f-4036-a086-3b0eb62a3c46" />
+<img width="1912" height="968" alt="image" src="https://github.com/user-attachments/assets/3d601cca-69e9-4980-b0ae-32c175290558" />
+
 
 ---
 
