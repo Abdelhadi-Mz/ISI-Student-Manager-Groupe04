@@ -197,7 +197,8 @@ Cette Pull Request permet de proposer les modifications de l'étudiant C pour in
 
 Laisser un commentaire pour l'etudiant B
 
-<img width="1920" height="1080" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/c9b1095c-99be-4c3e-bc96-b8f07bb28de0" />
+<img width="1361" height="700" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/6c86175b-b7b4-4af2-ab79-d06bb51bc2aa" />
+
 
 
 # Étudiant D — Style CSS et navigation
