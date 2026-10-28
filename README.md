@@ -205,6 +205,10 @@ Laisser un commentaire pour l'etudiant B
 
 <img width="1225" height="743" alt="image" src="https://github.com/user-attachments/assets/743547d6-e587-42f0-a093-5555168fd467" />
 
+### 13. met à jour sa branche main locale :
+
+<img width="1093" height="257" alt="image" src="https://github.com/user-attachments/assets/4181acc9-3f72-4e9d-822e-8804c8c8ea71" />
+
 
 # Étudiant D — Style CSS et navigation
 
