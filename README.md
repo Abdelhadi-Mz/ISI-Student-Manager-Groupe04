@@ -32,6 +32,8 @@ L'étudiant A est responsable de la création du dépôt commun :
 `ISI-Student-Manager-Groupe04`
 
 Il invite les étudiants B, C et D comme collaborateurs.
+<img width="1908" height="645" alt="image" src="https://github.com/user-attachments/assets/b0f8df75-4984-4c23-b0cc-a2a0822f94d5" />
+
 
 ### 2. Configuration de Git
 
