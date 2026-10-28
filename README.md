@@ -189,7 +189,8 @@ La branche `feature/projets` est publiée sur le dépôt distant.
 
 Création d'une Pull Request avec les paramètres :
 
-<img width="1920" height="1080" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/0e45d3a0-05a5-4821-884c-64cdd69faef6" />
+<img width="1384" height="816" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/f88fcd95-cd5d-49ef-9352-1859cfe42e72" />
+
 
 Cette Pull Request permet de proposer les modifications de l'étudiant C pour intégration dans le projet commun.
 
