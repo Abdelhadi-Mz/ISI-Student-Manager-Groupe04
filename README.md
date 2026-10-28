@@ -30,9 +30,12 @@ Chaque étudiant travaille sur une branche dédiée, puis propose ses modificati
 L'étudiant A est responsable de la création du dépôt commun :
 
 `ISI-Student-Manager-Groupe04`
+<img width="1908" height="645" alt="image" src="https://github.com/user-attachments/assets/b0f8df75-4984-4c23-b0cc-a2a0822f94d5" />
 
 Il invite les étudiants B, C et D comme collaborateurs.
-<img width="1908" height="645" alt="image" src="https://github.com/user-attachments/assets/b0f8df75-4984-4c23-b0cc-a2a0822f94d5" />
+
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/71d7156e-78f1-4212-8cb8-ac5a787b45e5" />
+
 
 
 ### 2. Configuration de Git
