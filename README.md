@@ -1,4 +1,3 @@
-# ISI-Student-Manager-Groupe04
 
 ## TP 3 — Gestion collaborative des versions avec Git et GitHub
 
@@ -43,6 +42,7 @@ git config --global user.email "email@example.com"
 git config --list
 ```
 
+
 ### 3. Initialisation du projet
 
 L'étudiant A prépare la structure du projet et la branche principale `main`.
@@ -80,12 +80,19 @@ Création d'une Pull Request de `feature/accueil` vers `main`, suivie d'une revu
 ### 1. Configuration Git et SSH
 
 L'étudiant B configure Git et sa connexion SSH à GitHub.
+<img width="1600" height="235" alt="WhatsApp Image 2026-10-28 at 15 01 11" src="https://github.com/user-attachments/assets/98b1b0cd-5d57-4b47-b1c9-aa69c1b4dae8" />
+
 
 ### 2. Clonage du dépôt commun
+<img width="1321" height="402" alt="Screenshot 2026-10-28 153120" src="https://github.com/user-attachments/assets/91dd3fc7-860d-4957-ac5e-121027336f5e" />
+
+<img width="865" height="85" alt="Screenshot 2026-10-28 153335" src="https://github.com/user-attachments/assets/a64a4dc8-44cb-4702-aec5-9610fbc20527" />
 
 ```bash
 git clone git@github.com:Abdelhadi-Mz/ISI-Student-Manager-Groupe04.git
 ```
+<img width="952" height="185" alt="Screenshot 2026-10-28 153544" src="https://github.com/user-attachments/assets/07636833-0ff2-4112-89d4-d036a44e7c3c" />
+
 
 ### 3. Accès au projet
 
@@ -104,6 +111,8 @@ git branch --show-current
 ### 5. Développement
 
 Création du fichier `etudiants.php` pour afficher la liste des étudiants.
+<img width="1917" height="995" alt="image" src="https://github.com/user-attachments/assets/fb1275aa-2879-49a3-b29b-54ef01ac90d5" />
+
 
 ### 6. Commit et push
 
@@ -204,10 +213,6 @@ Laisser un commentaire pour l'etudiant B
 ### 12. Après validation, le groupe fusionne la Pull Request
 
 <img width="1225" height="743" alt="image" src="https://github.com/user-attachments/assets/743547d6-e587-42f0-a093-5555168fd467" />
-
-### 13. met à jour sa branche main locale :
-
-<img width="1093" height="257" alt="image" src="https://github.com/user-attachments/assets/4181acc9-3f72-4e9d-822e-8804c8c8ea71" />
 
 
 # Étudiant D — Style CSS et navigation
