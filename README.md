@@ -136,6 +136,31 @@ git push -u origin feature/etudiants
 Création d'une Pull Request vers `main` et demande de revue de code.
 
 ---
+### 8. Ajout et commit du fichier
+
+<img width="947" height="86" alt="image" src="https://github.com/user-attachments/assets/37ca4094-d0ee-4174-a54c-90f5cf8c13aa" />
+
+### 9. Publication de la branche sur GitHub
+
+<img width="1391" height="304" alt="image" src="https://github.com/user-attachments/assets/2f97c596-ad04-4a5a-8c89-4990f3ca1be9" />
+<img width="1088" height="45" alt="image" src="https://github.com/user-attachments/assets/495772f4-d1cb-481e-95e1-a61f2ac9c69e" />
+
+
+### 10. Création de la Pull Request
+
+Création d'une Pull Request avec les paramètres :
+
+
+
+### 11. Revue de code
+
+Laisser un commentaire pour l'etudiant B
+
+
+### 12. Après validation, le groupe fusionne la Pull Request
+
+
+
 
 # Étudiant C — Gestion des projets (Marieme AMZIL)
 
