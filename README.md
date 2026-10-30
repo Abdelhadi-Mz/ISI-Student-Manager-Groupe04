@@ -150,15 +150,18 @@ Création d'une Pull Request vers `main` et demande de revue de code.
 
 Création d'une Pull Request avec les paramètres :
 
+<img width="1376" height="332" alt="image" src="https://github.com/user-attachments/assets/97562865-b6d5-49e8-9347-9be58e63c41e" />
 
 
 ### 11. Revue de code
 
-Laisser un commentaire pour l'etudiant B
+Laisser un commentaire pour l'etudiant c
+<img width="1107" height="717" alt="image" src="https://github.com/user-attachments/assets/b0fe7158-708e-4fa2-9a71-8f9950d2ec90" />
 
 
 ### 12. Après validation, le groupe fusionne la Pull Request
 
+<img width="1197" height="782" alt="image" src="https://github.com/user-attachments/assets/dc8ffc2b-01ce-4099-bd5f-ec47cb531c75" />
 
 
 
