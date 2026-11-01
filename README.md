@@ -303,11 +303,12 @@ git push -u origin feature/style
 ### 7. Pull Request
 
 Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue de code.
-<img width="716" height="170" alt="git10" src="https://github.com/user-attachments/assets/c2b1ceea-3a47-4d09-bb49-426ab1969b39" />
+<img width="1487" height="108" alt="qq2" src="https://github.com/user-attachments/assets/dfa10987-e98f-4e8d-bd10-51ddd60ef14e" />
 
+### 8. Revue du code
 <img width="1352" height="377" alt="git11" src="https://github.com/user-attachments/assets/8bc28826-f993-45f4-8daa-0214c1654a5a" />
 
-### Fusion et mise à jour
+### 9. Fusion et mise à jour
 <img width="1180" height="695" alt="qq" src="https://github.com/user-attachments/assets/7c7b86f9-24af-4ae0-b071-e0238c22550a" />
 
 <img width="747" height="107" alt="qq1" src="https://github.com/user-attachments/assets/69cdc94f-160b-4b07-868d-4683552b372d" />
