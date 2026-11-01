@@ -307,6 +307,10 @@ Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue 
 
 <img width="1352" height="377" alt="git11" src="https://github.com/user-attachments/assets/8bc28826-f993-45f4-8daa-0214c1654a5a" />
 
+### Fusion et mise à jour
+<img width="747" height="107" alt="qq1" src="https://github.com/user-attachments/assets/69cdc94f-160b-4b07-868d-4683552b372d" />
+
+
 
 
 # Intégration collaborative du projet
