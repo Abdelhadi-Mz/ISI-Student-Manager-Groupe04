@@ -313,6 +313,12 @@ Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue 
 
 <img width="747" height="107" alt="qq1" src="https://github.com/user-attachments/assets/69cdc94f-160b-4b07-868d-4683552b372d" />
 
+### 10. Création des branches depuis le main
+<img width="787" height="557" alt="a1" src="https://github.com/user-attachments/assets/5502159e-cdbe-4746-8a7a-a8096d36f5e8" />
+
+### 11. Modifications
+<img width="615" height="212" alt="a2" src="https://github.com/user-attachments/assets/723545f6-0eed-42a3-a49f-a97885bcf5c9" />
+<img width="837" height="370" alt="a3" src="https://github.com/user-attachments/assets/f5f12c24-8600-4bad-8a5c-7e4e3057404d" />
 
 
 
