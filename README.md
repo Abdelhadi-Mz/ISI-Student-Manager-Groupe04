@@ -322,12 +322,7 @@ Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue 
 
 
 
-#exercie 8
+# Exercise 8
 etudent b:
 <img width="1165" height="640" alt="WhatsApp Image 2026-11-02 at 00 44 43" src="https://github.com/user-attachments/assets/6ef12c5e-8fa7-4412-a68e-71152bf744f5" />
 
-# Conclusion
-
-Ce TP permet de mettre en pratique la gestion collaborative des versions avec Git et GitHub.
-
-Le travail collaboratif facilite l'organisation du développement et l'intégration progressive des différentes parties de l'application ISI Student Manager.
