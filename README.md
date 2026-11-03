@@ -344,7 +344,7 @@ git pull origin main
 
 #exercie 8
 etudent b:
-<img width="947" height="497" alt="image" src="https://github.com/user-attachments/assets/b4916f1e-d022-42c8-a553-6a95243e8461" />
+<img width="1165" height="640" alt="WhatsApp Image 2026-11-02 at 00 44 43" src="https://github.com/user-attachments/assets/6ef12c5e-8fa7-4412-a68e-71152bf744f5" />
 
 # Conclusion
 
