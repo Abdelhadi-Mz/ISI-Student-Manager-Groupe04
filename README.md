@@ -320,27 +320,7 @@ Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue 
 
 
 
-# Intégration collaborative du projet
 
-Chaque étudiant travaille sur sa propre branche Git.
-
-Le processus de collaboration est le suivant :
-
-1. Création d'une branche de fonctionnalité.
-2. Développement et test des modifications.
-3. Ajout des fichiers avec `git add`.
-4. Enregistrement avec `git commit`.
-5. Publication avec `git push`.
-6. Création d'une Pull Request.
-7. Revue de code par un autre membre.
-8. Fusion dans `main` après validation.
-
-Après les fusions, les membres peuvent synchroniser leur copie locale :
-
-```bash
-git switch main
-git pull origin main
-```
 
 #exercie 8
 etudent b:
@@ -350,8 +330,4 @@ etudent b:
 
 Ce TP permet de mettre en pratique la gestion collaborative des versions avec Git et GitHub.
 
-Les étudiants découvrent l'utilisation des branches, des commits, du dépôt distant, des Pull Requests et des revues de code.
-
 Le travail collaboratif facilite l'organisation du développement et l'intégration progressive des différentes parties de l'application ISI Student Manager.
-
-**Remarque :** les sections des étudiants A, B et D décrivent les tâches à documenter. Elles doivent être vérifiées et complétées avec les commandes, captures et résultats réellement obtenus par chaque membre du groupe.
