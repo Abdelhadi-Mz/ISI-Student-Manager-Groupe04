@@ -330,7 +330,6 @@ etudent b:
 ## l’historique graphique des commits et les branches.
 
 <img width="1177" height="772" alt="image" src="https://github.com/user-attachments/assets/1f8980ad-d040-4762-bc2c-074e38a0cac4" />
-<img width="898" height="732" alt="image" src="https://github.com/user-attachments/assets/efe96041-9e47-4798-aefd-ddc8eb9c2958" />
 <img width="1177" height="536" alt="image" src="https://github.com/user-attachments/assets/045ac0e6-ed10-433e-be0a-c511833e5ba7" />
 <img width="1112" height="602" alt="image" src="https://github.com/user-attachments/assets/e9dc1379-fc38-45f6-909b-260197b18c2b" />
 
