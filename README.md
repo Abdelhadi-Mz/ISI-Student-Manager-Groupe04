@@ -4,8 +4,6 @@
 **Projet :** ISI Student Manager  
 **Groupe :** 04  
 
-
-
 ### Présentation du projet
 
 Ce projet est réalisé dans le cadre du TP 3 de Méthodologies de Développement et Ateliers PHP.
@@ -344,6 +342,9 @@ git switch main
 git pull origin main
 ```
 
+#exercie 8
+etudent b:
+<img width="947" height="497" alt="image" src="https://github.com/user-attachments/assets/b4916f1e-d022-42c8-a553-6a95243e8461" />
 
 # Conclusion
 
