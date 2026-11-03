@@ -306,7 +306,11 @@ Création d'une Pull Request de `feature/style` vers `main`, suivie d'une revue 
 etudent b:
 <img width="1165" height="640" alt="WhatsApp Image 2026-11-02 at 00 44 43" src="https://github.com/user-attachments/assets/6ef12c5e-8fa7-4412-a68e-71152bf744f5" />
 
-<img width="1165" height="640" alt="WhatsApp Image 2026-11-02 at 00 44 43" src="https://github.com/user-attachments/assets/6ef12c5e-8fa7-4412-a68e-71152bf744f5" />\
+etudent c:
+<img width="1136" height="452" alt="image" src="https://github.com/user-attachments/assets/30649933-c64e-489a-9da4-6ccda4f52d19" />
+
+
+
 ## l’historique graphique des commits et les branches.
 
 <img width="1177" height="772" alt="image" src="https://github.com/user-attachments/assets/1f8980ad-d040-4762-bc2c-074e38a0cac4" />
