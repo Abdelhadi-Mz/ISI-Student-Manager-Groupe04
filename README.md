@@ -45,34 +45,14 @@ git --version
 git config --global user.name "Nom Etudiant A"
 git config --global user.email "email@example.com"
 git config --list
+```
 <img width="388" height="228" alt="image" src="https://github.com/user-attachments/assets/1951f9ce-02cf-4541-be44-9f698b56e520" />
 
 ```
 
-
-### 3. Initialisation du projet
-
-L'étudiant A prépare la structure du projet et la branche principale `main`.
-
-### 4. Création de la branche d'accueil
-
-```bash
-git switch -c feature/accueil
 ```
 
-### 5. Développement de la page d'accueil
-
-Création du fichier `index.php` pour présenter l'application ISI Student Manager.
-
-### 6. Enregistrement et publication
-
-```bash
-git add index.php
-git commit -m "Ajout de la page d'accueil"
-git push -u origin feature/accueil
-```
-
-### 7. Pull Request
+### 3. Pull Request
 
 Création d'une Pull Request de `feature/accueil` vers `main`, suivie d'une revue de code avant fusion.
 
